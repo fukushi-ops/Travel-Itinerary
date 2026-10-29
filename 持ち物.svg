@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="持ち物.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="0.71891835"
+     inkscape:cx="589.7749"
+     inkscape:cy="495.18836"
+     inkscape:window-width="1150"
+     inkscape:window-height="1000"
+     inkscape:window-x="953"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="148.5,105"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="148.5,156.26765"
+       orientation="1,0"
+       id="guide2"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <line
+       x1="303.72653"
+       y1="0.94411445"
+       x2="303.72653"
+       y2="209.71367"
+       stroke="#8dbdd9"
+       stroke-width="0.732525"
+       stroke-dasharray="2, 2"
+       id="line5" />
+    <text
+       x="5.5253129"
+       y="11.593186"
+       class="title"
+       id="text8"
+       style="font-weight:700;font-size:8.69304px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58;stroke-width:1.4021">東京2泊3日　持ち物チェックリスト</text>
+    <text
+       x="6.3250484"
+       y="19.686161"
+       class="subtitle"
+       id="text9"
+       style="font-size:3.95563px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#47718e;stroke-width:1.46505">必需品・宿泊用品・企業訪問の準備をチェックしよう</text>
+    <rect
+       x="4.1239395"
+       y="34.640255"
+       width="140.64474"
+       height="46.563038"
+       rx="2.9300988"
+       class="pale"
+       id="rect10"
+       style="fill:#eaf6fc;stroke-width:1.65187" />
+    <rect
+       x="4.1239395"
+       y="34.640255"
+       width="140.64474"
+       height="9.5228214"
+       rx="2.9300988"
+       class="bar"
+       id="rect11"
+       style="fill:#3689bd;stroke-width:1.46505" />
+    <text
+       x="18.774433"
+       y="41.672504"
+       class="section"
+       id="text11"
+       style="font-weight:700;font-size:5.12767px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#ffffff;stroke-width:1.46505">1　必ず持っていくもの</text>
+    <g
+       transform="matrix(1.4650494,0,0,1.4650494,8.5190862,49.290756)"
+       id="g16">
+      <g
+         id="use12">
+        <rect
+           class="check"
+           x="0"
+           y="0"
+           width="2.5999999"
+           height="2.5999999"
+           rx="0.34999999"
+           id="rect15"
+           style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+      </g>
+      <text
+         x="4"
+         y="2.2"
+         class="item"
+         id="text12"
+         style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">財布・現金</text>
+      <g
+         id="use13"
+         transform="translate(0,4.4000001)">
+        <rect
+           class="check"
+           x="0"
+           y="0"
+           width="2.5999999"
+           height="2.5999999"
+           rx="0.34999999"
+           id="rect18"
+           style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+      </g>
+      <text
+         x="4"
+         y="6.5999999"
+         class="item"
+         id="text13"
+         style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">交通系ICカード</text>
+      <g
+         id="use14"
+         transform="translate(0,8.8000002)">
+        <rect
+           class="check"
+           x="0"
+           y="0"
+           width="2.5999999"
+           height="2.5999999"
+           rx="0.34999999"
+           id="rect19"
+           style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+      </g>
+      <text
+         x="4"
+         y="11"
+         class="item"
+         id="text14-8"
+         style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">スマートフォン</text>
+      <g
+         id="use15"
+         transform="translate(0,13.2)">
+        <rect
+           class="check"
+           x="0"
+           y="0"
+           width="2.5999999"
+           height="2.5999999"
+           rx="0.34999999"
+           id="rect20"
+           style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+      </g>
+      <text
+         x="4"
+         y="15.4"
+         class="item"
+         id="text15"
+         style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">充電器・モバイルバッテリー</text>
+      <g
+         id="use16"
+         transform="translate(0,17.6)">
+        <rect
+           class="check"
+           x="0"
+           y="0"
+           width="2.5999999"
+           height="2.5999999"
+           rx="0.34999999"
+           id="rect21"
+           style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+      </g>
+      <text
+         x="4"
+         y="19.799999"
+         class="item"
+         id="text16"
+         style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">身分証・予約情報・チケット</text>
+    </g>
+    <g
+       id="g69"
+       transform="translate(0,10.160051)">
+      <rect
+         x="4.1239395"
+         y="75.661652"
+         width="140.64474"
+         height="51.27673"
+         rx="2.9300988"
+         class="pale"
+         id="rect16"
+         style="fill:#eaf6fc;stroke-width:1.46505" />
+      <rect
+         x="4.1239395"
+         y="75.661652"
+         width="140.64474"
+         height="9.5228214"
+         rx="2.9300988"
+         class="bar"
+         id="rect17"
+         style="fill:#3689bd;stroke-width:1.46505" />
+      <text
+         x="18.774433"
+         y="82.693886"
+         class="section"
+         id="text17"
+         style="font-weight:700;font-size:5.12767px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#ffffff;stroke-width:1.46505">2　衣類・宿泊用品</text>
+      <g
+         transform="matrix(1.4650494,0,0,1.4650494,8.5190862,90.312139)"
+         id="g23">
+        <g
+           id="use18">
+          <rect
+             class="check"
+             x="0"
+             y="0"
+             width="2.5999999"
+             height="2.5999999"
+             rx="0.34999999"
+             id="rect22"
+             style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+        </g>
+        <text
+           x="4"
+           y="2.2"
+           class="item"
+           id="text18"
+           style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">下着・靴下（各3日分）</text>
+        <g
+           id="use19"
+           transform="translate(0,4.3000002)">
+          <rect
+             class="check"
+             x="0"
+             y="0"
+             width="2.5999999"
+             height="2.5999999"
+             rx="0.34999999"
+             id="rect25"
+             style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+        </g>
+        <text
+           x="4"
+           y="6.5"
+           class="item"
+           id="text19"
+           style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">普段着・寝るときの服</text>
+        <g
+           id="use20"
+           transform="translate(0,8.6000004)">
+          <rect
+             class="check"
+             x="0"
+             y="0"
+             width="2.5999999"
+             height="2.5999999"
+             rx="0.34999999"
+             id="rect26"
+             style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+        </g>
+        <text
+           x="4"
+           y="10.8"
+           class="item"
+           id="text20"
+           style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">ハンカチ・タオル</text>
+        <g
+           id="use21"
+           transform="translate(0,12.9)">
+          <rect
+             class="check"
+             x="0"
+             y="0"
+             width="2.5999999"
+             height="2.5999999"
+             rx="0.34999999"
+             id="rect27"
+             style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+        </g>
+        <text
+           x="4"
+           y="15.1"
+           class="item"
+           id="text21"
+           style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">歯ブラシ・洗面用品・スキンケア</text>
+        <g
+           id="use22"
+           transform="translate(0,17.200001)">
+          <rect
+             class="check"
+             x="0"
+             y="0"
+             width="2.5999999"
+             height="2.5999999"
+             rx="0.34999999"
+             id="rect28"
+             style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+        </g>
+        <text
+           x="4"
+           y="19.4"
+           class="item"
+           id="text22"
+           style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">ビニール袋・折りたたみ傘</text>
+        <g
+           id="use23"
+           transform="translate(0,21.5)">
+          <rect
+             class="check"
+             x="0"
+             y="0"
+             width="2.5999999"
+             height="2.5999999"
+             rx="0.34999999"
+             id="rect29"
+             style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+        </g>
+        <text
+           x="4"
+           y="23.700001"
+           class="item"
+           id="text23"
+           style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">常備薬・必要な衛生用品</text>
+      </g>
+    </g>
+    <rect
+       x="4.1239395"
+       y="151.43036"
+       width="140.64474"
+       height="50.448765"
+       rx="2.9300988"
+       class="pale"
+       id="rect23"
+       style="fill:#eaf6fc;stroke-width:1.24088" />
+    <rect
+       x="4.1239395"
+       y="141.49356"
+       width="140.64474"
+       height="9.5228214"
+       rx="2.9300988"
+       class="bar"
+       id="rect24"
+       style="fill:#3689bd;stroke-width:1.46505" />
+    <text
+       x="18.774433"
+       y="148.52582"
+       class="section"
+       id="text24"
+       style="font-weight:700;font-size:5.12767px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#ffffff;stroke-width:1.46505">3　企業訪問で必要なもの</text>
+    <g
+       id="use25"
+       transform="matrix(1.4650494,0,0,1.4650494,8.5190862,156.14406)">
+      <rect
+         class="check"
+         x="0"
+         y="0"
+         width="2.5999999"
+         height="2.5999999"
+         rx="0.34999999"
+         id="rect30"
+         style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+    </g>
+    <text
+       x="14.379284"
+       y="159.36717"
+       class="item"
+       id="text25"
+       style="font-size:3.88238px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58;stroke-width:1.46505">スーツ・ワイシャツ／ブラウス</text>
+    <g
+       id="use26"
+       transform="matrix(1.4650494,0,0,1.4650494,8.5190862,162.88329)">
+      <rect
+         class="check"
+         x="0"
+         y="0"
+         width="2.5999999"
+         height="2.5999999"
+         rx="0.34999999"
+         id="rect31"
+         style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+    </g>
+    <text
+       x="14.379284"
+       y="166.1064"
+       class="item"
+       id="text26"
+       style="font-size:3.88238px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58;stroke-width:1.46505">ネクタイ（必要な場合）</text>
+    <g
+       id="use27"
+       transform="matrix(1.4650494,0,0,1.4650494,8.5190862,169.62251)">
+      <rect
+         class="check"
+         x="0"
+         y="0"
+         width="2.5999999"
+         height="2.5999999"
+         rx="0.34999999"
+         id="rect32"
+         style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+    </g>
+    <text
+       x="14.379284"
+       y="172.84563"
+       class="item"
+       id="text27"
+       style="font-size:3.88238px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58;stroke-width:1.46505">革靴／パンプス・ベルト</text>
+    <g
+       id="use28"
+       transform="matrix(1.4650494,0,0,1.4650494,8.5190862,176.36174)">
+      <rect
+         class="check"
+         x="0"
+         y="0"
+         width="2.5999999"
+         height="2.5999999"
+         rx="0.34999999"
+         id="rect36"
+         style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+    </g>
+    <text
+       x="14.379284"
+       y="179.58485"
+       class="item"
+       id="text28"
+       style="font-size:3.88238px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58;stroke-width:1.46505">企業訪問の資料・日程表</text>
+    <g
+       id="use29"
+       transform="matrix(1.4650494,0,0,1.4650494,8.5190862,183.10097)">
+      <rect
+         class="check"
+         x="0"
+         y="0"
+         width="2.5999999"
+         height="2.5999999"
+         rx="0.34999999"
+         id="rect37"
+         style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+    </g>
+    <text
+       x="14.379284"
+       y="186.32408"
+       class="item"
+       id="text29"
+       style="font-size:3.88238px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58;stroke-width:1.46505">メモ帳・ボールペン</text>
+    <g
+       id="use30"
+       transform="matrix(1.4650494,0,0,1.4650494,8.5190862,189.8402)">
+      <rect
+         class="check"
+         x="0"
+         y="0"
+         width="2.5999999"
+         height="2.5999999"
+         rx="0.34999999"
+         id="rect38"
+         style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+    </g>
+    <text
+       x="14.379284"
+       y="193.06331"
+       class="item"
+       id="text30"
+       style="font-size:3.88238px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58;stroke-width:1.46505">学生証・クリアファイル・腕時計</text>
+    <line
+       x1="8.5190859"
+       y1="198.63049"
+       x2="138.90848"
+       y2="198.63049"
+       class="line"
+       id="line30"
+       style="stroke:#d7eaf5;stroke-width:0.512767" />
+    <rect
+       x="150.0098"
+       y="34.359882"
+       width="141.51895"
+       height="57.492077"
+       rx="2.9483118"
+       class="pale"
+       id="rect50"
+       style="fill:#eaf6fc;stroke-width:1.47415" />
+    <rect
+       x="150.0098"
+       y="34.359882"
+       width="141.51895"
+       height="9.5820131"
+       rx="2.9483118"
+       class="bar"
+       id="rect51"
+       style="fill:#3689bd;stroke-width:1.47415" />
+    <text
+       x="164.75137"
+       y="41.435841"
+       class="section"
+       id="text51"
+       style="font-weight:700;font-size:5.15954px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#ffffff;stroke-width:1.47415">4　ディズニーシー</text>
+    <g
+       transform="matrix(1.4741559,0,0,1.4741559,154.43229,49.101453)"
+       id="g57">
+      <g
+         id="use52">
+        <rect
+           class="check"
+           x="0"
+           y="0"
+           width="2.5999999"
+           height="2.5999999"
+           rx="0.34999999"
+           id="rect39"
+           style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+      </g>
+      <text
+         x="4"
+         y="2.2"
+         class="item"
+         id="text52"
+         style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">パークチケット</text>
+      <g
+         id="use53"
+         transform="translate(0,4.6999998)">
+        <rect
+           class="check"
+           x="0"
+           y="0"
+           width="2.5999999"
+           height="2.5999999"
+           rx="0.34999999"
+           id="rect40"
+           style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+      </g>
+      <text
+         x="4"
+         y="6.9000001"
+         class="item"
+         id="text53"
+         style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">公式アプリの準備</text>
+      <g
+         id="use54"
+         transform="translate(0,9.3999996)">
+        <rect
+           class="check"
+           x="0"
+           y="0"
+           width="2.5999999"
+           height="2.5999999"
+           rx="0.34999999"
+           id="rect41"
+           style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+      </g>
+      <text
+         x="4"
+         y="11.6"
+         class="item"
+         id="text54"
+         style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">歩きやすい靴</text>
+      <g
+         id="use55"
+         transform="translate(0,14.1)">
+        <rect
+           class="check"
+           x="0"
+           y="0"
+           width="2.5999999"
+           height="2.5999999"
+           rx="0.34999999"
+           id="rect43"
+           style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+      </g>
+      <text
+         x="4"
+         y="16.299999"
+         class="item"
+         id="text55"
+         style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">飲み物・タオル</text>
+      <g
+         id="use56"
+         transform="translate(0,18.799999)">
+        <rect
+           class="check"
+           x="0"
+           y="0"
+           width="2.5999999"
+           height="2.5999999"
+           rx="0.34999999"
+           id="rect44"
+           style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+      </g>
+      <text
+         x="4"
+         y="21"
+         class="item"
+         id="text56"
+         style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">雨具・羽織れる上着</text>
+      <g
+         id="use57"
+         transform="translate(0,23.5)">
+        <rect
+           class="check"
+           x="0"
+           y="0"
+           width="2.5999999"
+           height="2.5999999"
+           rx="0.34999999"
+           id="rect45"
+           style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+      </g>
+      <text
+         x="4"
+         y="25.700001"
+         class="item"
+         id="text57"
+         style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">小さめのバッグ</text>
+    </g>
+    <rect
+       x="153.29289"
+       y="99.241058"
+       width="140.04482"
+       height="100.24259"
+       rx="2.9483118"
+       class="pale"
+       id="rect68-1"
+       style="fill:#eaf6fc;stroke-width:1.47415" />
+    <rect
+       x="153.29289"
+       y="99.241058"
+       width="140.04482"
+       height="9.5820131"
+       rx="2.9483118"
+       class="bar"
+       id="rect69-8"
+       style="fill:#3689bd;stroke-width:1.47415" />
+    <text
+       x="168.03447"
+       y="106.31702"
+       class="section"
+       id="text69-9"
+       style="font-weight:700;font-size:5.15954px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#ffffff;stroke-width:1.47415">5 　出発前日の最終チェック</text>
+    <g
+       transform="matrix(1.4741559,0,0,1.4741559,159.18952,115.45679)"
+       id="g74-2">
+      <g
+         id="use70-7">
+        <rect
+           class="check"
+           x="0"
+           y="0"
+           width="2.5999999"
+           height="2.5999999"
+           rx="0.34999999"
+           id="rect59-9"
+           style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+      </g>
+      <text
+         x="4"
+         y="2.2"
+         class="item"
+         id="text70-5"
+         style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">スマホ・バッテリーを充電した</text>
+      <g
+         id="use71-4"
+         transform="translate(0,7.1999998)">
+        <rect
+           class="check"
+           x="0"
+           y="0"
+           width="2.5999999"
+           height="2.5999999"
+           rx="0.34999999"
+           id="rect60-3"
+           style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+      </g>
+      <text
+         x="4"
+         y="9.3999996"
+         class="item"
+         id="text71-1"
+         style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">予約・チケットを確認した</text>
+      <g
+         id="use72-2"
+         transform="translate(0,14.4)">
+        <rect
+           class="check"
+           x="0"
+           y="0"
+           width="2.5999999"
+           height="2.5999999"
+           rx="0.34999999"
+           id="rect61-3"
+           style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+      </g>
+      <text
+         x="4"
+         y="16.6"
+         class="item"
+         id="text72-3"
+         style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">企業訪問の資料・服装を準備した</text>
+      <g
+         id="use73-4"
+         transform="translate(0,21.6)">
+        <rect
+           class="check"
+           x="0"
+           y="0"
+           width="2.5999999"
+           height="2.5999999"
+           rx="0.34999999"
+           id="rect64-1"
+           style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+      </g>
+      <text
+         x="4"
+         y="23.799999"
+         class="item"
+         id="text73-1"
+         style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">集合時間・場所を確認した</text>
+      <g
+         id="use74-3"
+         transform="translate(0,28.799999)">
+        <rect
+           class="check"
+           x="0"
+           y="0"
+           width="2.5999999"
+           height="2.5999999"
+           rx="0.34999999"
+           id="rect65-8"
+           style="fill:#ffffff;stroke:#3689bd;stroke-width:0.55" />
+      </g>
+      <text
+         x="4"
+         y="31"
+         class="item"
+         id="text74-7"
+         style="font-size:2.65px;font-family:'Noto Sans JP', 'Yu Gothic', sans-serif;fill:#183b58">財布・身分証・しおりを入れた</text>
+    </g>
+  </g>
+</svg>

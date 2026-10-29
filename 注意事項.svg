@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="148.5mm" viewBox="0 0 420 148.5">
+<title>東京2泊3日 就職研修旅行 注意事項 A5横向き相当2ページ</title>
+<desc>中央で左右に分けた2ページ。左は集合・安全・基本行動、右は企業訪問・ディズニーシー・浅草・宿泊の注意事項。Inkscapeで編集可能。</desc>
+<defs>
+<style>
+text{font-family:"Noto Sans JP","Yu Gothic",sans-serif;fill:#183b58}
+.title{font-size:6px;font-weight:700}.subtitle{font-size:2.7px;fill:#47718e}
+.section{font-size:3.4px;font-weight:700;fill:#fff}.item{font-size:2.65px}.small{font-size:2.25px}
+.muted{fill:#55758c}.panel{fill:#fff;stroke:#c4e0f1;stroke-width:.45}.bar{fill:#3689bd}
+.pale{fill:#eaf6fc}.line{stroke:#d7eaf5;stroke-width:.35}.bullet{fill:#3689bd}
+</style>
+<g id="mickey"><circle r="2.2" fill="#fff"/><circle cx="-2.1" cy="-1.6" r="1.35" fill="#fff"/><circle cx="2.1" cy="-1.6" r="1.35" fill="#fff"/></g>
+<g id="check"><rect width="2.6" height="2.6" rx=".35" fill="#fff" stroke="#3689bd" stroke-width=".55"/></g>
+</defs>
+<rect width="420" height="148.5" fill="#f6fbfe"/>
+<rect x="3" y="3" width="207" height="142.5" rx="2.2" class="panel"/>
+<rect x="213" y="3" width="204" height="142.5" rx="2.2" class="panel"/>
+<line x1="211.5" y1="3" x2="211.5" y2="145.5" stroke="#8dbdd9" stroke-width=".5" stroke-dasharray="2 2"/>
+<text x="211.5" y="147.5" text-anchor="middle" class="small muted">中央でカット／折り目の目安</text>
+<!-- page 1 header -->
+<rect x="3" y="3" width="207" height="20" rx="2.2" fill="#dff2fc"/>
+<circle cx="12" cy="10" r="2.6" fill="#3689bd"/><circle cx="9.8" cy="7.8" r="1.6" fill="#3689bd"/><circle cx="14.2" cy="7.8" r="1.6" fill="#3689bd"/>
+<text x="18" y="11.5" class="title">東京2泊3日　研修旅行の注意事項</text>
+<text x="8" y="17.3" class="subtitle">安全に行動し、気持ちよく研修・観光するために</text>
+<rect x="172" y="7" width="31" height="10" rx="5" class="bar"/><text x="187.5" y="13.3" text-anchor="middle" font-size="3" font-weight="700" fill="#fff">PAGE 1 / 2</text>
+<!-- left page cards -->
+<rect x="7" y="26" width="96" height="45" rx="2" class="pale"/><rect x="7" y="26" width="96" height="6.5" rx="2" class="bar"/><use href="#mickey" x="12" y="29.2"/><text x="17" y="30.8" class="section">1　集合・時間・移動</text>
+<g class="item">
+<circle cx="11" cy="37.5" r=".8" class="bullet"/><text x="14" y="38.4">集合時間・場所を事前に確認する。</text>
+<circle cx="11" cy="43.5" r=".8" class="bullet"/><text x="14" y="44.4">遅れそうなときは、すぐ担当者へ連絡。</text>
+<circle cx="11" cy="49.5" r=".8" class="bullet"/><text x="14" y="50.4">乗り場・降車駅・乗り換えを確認する。</text>
+<circle cx="11" cy="55.5" r=".8" class="bullet"/><text x="14" y="56.4">班行動では決められた時間と範囲を守る。</text>
+<circle cx="11" cy="61.5" r=".8" class="bullet"/><text x="14" y="62.4">無断での単独行動や予定変更はしない。</text>
+</g>
+<rect x="7" y="74" width="96" height="35" rx="2" class="pale"/><rect x="7" y="74" width="96" height="6.5" rx="2" class="bar"/><use href="#mickey" x="12" y="77.2"/><text x="17" y="78.8" class="section">2　安全・貴重品管理</text>
+<g class="item">
+<circle cx="11" cy="85.5" r=".8" class="bullet"/><text x="14" y="86.4">財布・スマホ・身分証は自分で管理する。</text>
+<circle cx="11" cy="91.5" r=".8" class="bullet"/><text x="14" y="92.4">人混みではバッグや貴重品に注意する。</text>
+<circle cx="11" cy="97.5" r=".8" class="bullet"/><text x="14" y="98.4">困ったらスタッフ・担当者に相談する。</text>
+<circle cx="11" cy="103.5" r=".8" class="bullet"/><text x="14" y="104.4">体調不良やけがは、すぐに伝える。</text>
+</g>
+<rect x="7" y="112" width="96" height="28" rx="2" fill="#fff4df" stroke="#f1d49b" stroke-width=".4"/>
+<circle cx="13" cy="119" r="3.4" fill="#e5a33a"/><text x="13" y="120.2" text-anchor="middle" font-size="4" font-weight="700" fill="#fff">!</text>
+<text x="19" y="119.8" font-size="3.1" font-weight="700" fill="#8b5c16">緊急時は落ち着いて行動</text>
+<text x="11" y="126" class="small">迷子・事故・体調不良が起きたら、</text><text x="11" y="130.5" class="small">一人で判断せず、研修担当者へ連絡。</text><text x="11" y="135" class="small">緊急連絡先は出発前に確認しておく。</text>
+<!-- page 1 right panel -->
+<rect x="108" y="26" width="98" height="114" rx="2" fill="#f5fbfe" stroke="#d7eaf5" stroke-width=".4"/>
+<text x="114" y="34" font-size="4" font-weight="700">行動するときの基本</text><path d="M114 38 Q157 33 200 38" fill="none" stroke="#9bcce8" stroke-width=".8"/>
+<g transform="translate(115,45)"><circle cx="4" cy="4" r="3.5" fill="#d6edf9"/><path d="M1 1.5H7V6.5H1Z M2 3.5L3.5 5L6 2.5" fill="none" stroke="#3689bd" stroke-width=".7"/><text x="12" y="3.5" font-size="3.1" font-weight="700">時間を守る</text><text x="12" y="7.5" class="small">余裕を持って行動する</text></g>
+<g transform="translate(115,60)"><circle cx="4" cy="4" r="3.5" fill="#d6edf9"/><circle cx="4" cy="2.5" r="1" fill="none" stroke="#3689bd" stroke-width=".7"/><path d="M2 6.5Q4 3.8 6 6.5" fill="none" stroke="#3689bd" stroke-width=".7"/><text x="12" y="3.5" font-size="3.1" font-weight="700">周囲に配慮する</text><text x="12" y="7.5" class="small">大声や通路のふさぎに注意</text></g>
+<g transform="translate(115,75)"><circle cx="4" cy="4" r="3.5" fill="#d6edf9"/><path d="M1 2H7V6.5H1Z M2 3.5H6 M2 5H5" fill="none" stroke="#3689bd" stroke-width=".7"/><text x="12" y="3.5" font-size="3.1" font-weight="700">ルールを守る</text><text x="12" y="7.5" class="small">学校・施設・企業の指示に従う</text></g>
+<g transform="translate(115,90)"><circle cx="4" cy="4" r="3.5" fill="#d6edf9"/><path d="M4 1V7 M1 4H7" stroke="#3689bd" stroke-width=".8"/><text x="12" y="3.5" font-size="3.1" font-weight="700">助け合う</text><text x="12" y="7.5" class="small">班の仲間の様子も気にかける</text></g>
+<rect x="114" y="106" width="86" height="26" rx="2" fill="#dff2fc"/><text x="157" y="113" text-anchor="middle" font-size="3.2" font-weight="700">出発前に記入しよう</text>
+<text x="119" y="119" class="small">担当者名：________________</text><text x="119" y="125" class="small">緊急連絡先：_______________</text><text x="119" y="130" class="small">宿泊先：__________________</text>
+<!-- page 2 header -->
+<rect x="213" y="3" width="204" height="20" rx="2.2" fill="#dff2fc"/>
+<circle cx="222" cy="10" r="2.6" fill="#3689bd"/><circle cx="219.8" cy="7.8" r="1.6" fill="#3689bd"/><circle cx="224.2" cy="7.8" r="1.6" fill="#3689bd"/>
+<text x="228" y="11.5" class="title">訪問先・観光地での注意事項</text><text x="218" y="17.3" class="subtitle">企業訪問、ディズニーシー、浅草、宿泊先で気をつけること</text>
+<rect x="379" y="7" width="31" height="10" rx="5" class="bar"/><text x="394.5" y="13.3" text-anchor="middle" font-size="3" font-weight="700" fill="#fff">PAGE 2 / 2</text>
+<!-- page 2 left cards -->
+<rect x="217" y="26" width="96" height="48" rx="2" class="pale"/><rect x="217" y="26" width="96" height="6.5" rx="2" class="bar"/><use href="#mickey" x="222" y="29.2"/><text x="227" y="30.8" class="section">3　企業訪問のマナー</text>
+<g class="item">
+<circle cx="221" cy="37.5" r=".8" class="bullet"/><text x="224" y="38.4">指定された服装・身だしなみを守る。</text>
+<circle cx="221" cy="43.5" r=".8" class="bullet"/><text x="224" y="44.4">時間に余裕を持ち、受付で学校名を伝える。</text>
+<circle cx="221" cy="49.5" r=".8" class="bullet"/><text x="224" y="50.4">あいさつ・返事をはっきり行う。</text>
+<circle cx="221" cy="55.5" r=".8" class="bullet"/><text x="224" y="56.4">説明中は静かに聞き、必要なことをメモする。</text>
+<circle cx="221" cy="61.5" r=".8" class="bullet"/><text x="224" y="62.4">撮影・録音は許可を得てから行う。</text>
+<circle cx="221" cy="67.5" r=".8" class="bullet"/><text x="224" y="68.4">スマホはマナーモードに設定する。</text>
+</g>
+<rect x="217" y="77" width="96" height="31" rx="2" class="pale"/><rect x="217" y="77" width="96" height="6.5" rx="2" class="bar"/><use href="#mickey" x="222" y="80.2"/><text x="227" y="81.8" class="section">4　ディズニーシー</text>
+<g class="item">
+<circle cx="221" cy="88.5" r=".8" class="bullet"/><text x="224" y="89.4">園内のルール・スタッフの案内に従う。</text>
+<circle cx="221" cy="94.5" r=".8" class="bullet"/><text x="224" y="95.4">集合場所・時間を班で共有する。</text>
+<circle cx="221" cy="100.5" r=".8" class="bullet"/><text x="224" y="101.4">走らず、周囲に気をつけて移動する。</text>
+<circle cx="221" cy="106" r=".8" class="bullet"/><text x="224" y="106.9">天候や運営状況による変更に注意する。</text>
+</g>
+<rect x="217" y="111" width="96" height="29" rx="2" class="pale"/><rect x="217" y="111" width="96" height="6.5" rx="2" class="bar"/><use href="#mickey" x="222" y="114.2"/><text x="227" y="115.8" class="section">5　浅草観光</text>
+<g class="item">
+<circle cx="221" cy="122.5" r=".8" class="bullet"/><text x="224" y="123.4">歩行者・お店・周辺の人に配慮する。</text>
+<circle cx="221" cy="128.5" r=".8" class="bullet"/><text x="224" y="129.4">食べ歩きは場所ごとのルールに従う。</text>
+<circle cx="221" cy="134.5" r=".8" class="bullet"/><text x="224" y="135.4">撮影時は周囲の迷惑にならないように。</text>
+</g>
+<!-- page 2 right cards -->
+<rect x="318" y="26" width="95" height="48" rx="2" class="pale"/><rect x="318" y="26" width="95" height="6.5" rx="2" class="bar"/><use href="#mickey" x="323" y="29.2"/><text x="328" y="30.8" class="section">6　宿泊先・生活のマナー</text>
+<g class="item">
+<circle cx="322" cy="37.5" r=".8" class="bullet"/><text x="325" y="38.4">部屋・共有スペースをきれいに使う。</text>
+<circle cx="322" cy="43.5" r=".8" class="bullet"/><text x="325" y="44.4">夜は騒がず、決められた時間を守る。</text>
+<circle cx="322" cy="49.5" r=".8" class="bullet"/><text x="325" y="50.4">外出・帰着のルールを守る。</text>
+<circle cx="322" cy="55.5" r=".8" class="bullet"/><text x="325" y="56.4">貴重品を部屋に置いたままにしない。</text>
+<circle cx="322" cy="61.5" r=".8" class="bullet"/><text x="325" y="62.4">退室前に忘れ物がないか確認する。</text>
+</g>
+<rect x="318" y="77" width="95" height="31" rx="2" fill="#fff4df" stroke="#f1d49b" stroke-width=".4"/>
+<circle cx="324" cy="84" r="3.4" fill="#e5a33a"/><text x="324" y="85.2" text-anchor="middle" font-size="4" font-weight="700" fill="#fff">!</text>
+<text x="330" y="84.8" font-size="3.2" font-weight="700" fill="#8b5c16">困ったとき・緊急時</text>
+<text x="322" y="92" class="small">はぐれたら、決めた集合場所へ。</text><text x="322" y="97" class="small">事故・災害時は安全を確保し、担当者や</text><text x="322" y="102" class="small">施設スタッフの指示に従う。</text>
+<rect x="318" y="111" width="95" height="29" rx="2" fill="#dff2fc" stroke="#c4e0f1" stroke-width=".4"/>
+<text x="365.5" y="118" text-anchor="middle" font-size="3.3" font-weight="700">最後にもう一度確認！</text>
+<text x="323" y="124" class="small">□ 時間　□ 服装　□ 貴重品</text><text x="323" y="129" class="small">□ 連絡先　□ 班の集合場所</text><text x="323" y="135" class="small" font-weight="700">一人ひとりの行動が研修の成功につながる。</text>
+<!-- footer -->
+<path d="M3 141 Q22 136 41 141 T79 141 T117 141 T155 141 T193 141 T210 141 L210 145.5 L3 145.5Z" fill="#c8e8f8"/>
+<path d="M213 141 Q232 136 251 141 T289 141 T327 141 T365 141 T403 141 T417 141 L417 145.5 L213 145.5Z" fill="#c8e8f8"/>
+<text x="106.5" y="144" text-anchor="middle" class="small muted">TOKYO TRAINING TRIP</text><text x="315" y="144" text-anchor="middle" class="small muted">TOKYO TRAINING TRIP</text>
+</svg>
